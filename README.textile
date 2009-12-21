@@ -3,5 +3,5 @@ A theme framework for the "Shopp e-commerce plugin for WordPress":http://shopplu
 Created By:
 
 * "XENTEK":http://xentek.net/
-* "Easily Amused":http://easilyamuedinc.com/
+* "Easily Amused":http://easilyamusedinc.com/
 * "Page 12":http://page12.com/
