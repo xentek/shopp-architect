@@ -1,0 +1,7 @@
+A theme framework for the "Shopp e-commerce plugin for WordPress":http://shopplugin.net/. Built using the "Blueprint CSS 960 grid framework":http://www.blueprintcss.org/ and loosely based on "K2":http://getk2.com/ and "Thematic":http://themeshaper.com/thematic/. It supports deep integration with the Shopp API and is designed to be customized via "Child Themes":http://lorelle.wordpress.com/2008/12/30/parentchild-themes-in-wordpress-the-future-of-wordpress-themes/.
+
+Created By:
+
+* "XENTEK":http://xentek.net/
+* "Easily Amused":http://easilyamuedinc.com/
+* "Page 12":http://page12.com/
